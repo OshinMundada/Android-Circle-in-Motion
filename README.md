@@ -1,5 +1,7 @@
 # Android-Circle-in-Motion
 
+<img src="https://github.com/OshinMundada/Android-Circle-in-Motion/blob/master/android_moving_circle.gif" data-canonical-src="https://github.com/OshinMundada/Android-Circle-in-Motion/blob/master/android_moving_circle.gif" width="200" height="400" />
+
 Three modes: Draw, Delete, Move
 
 DRAW: When the user places one finger on the screen a circle is drawn on the screen. The center of the circle is
